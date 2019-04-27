@@ -1,5 +1,7 @@
 # ENGG-1340_new
 
+https://github.com/sam324976/ENGG-1340_new/blob/master/img/menu.png
+
 ## Problem statment
 In this project, I am going to build up a small system of information management. The aims of this system is to provide some basic functions for employer to collect and manage the information of employee.
 
