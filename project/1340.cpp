@@ -28,7 +28,7 @@ int main(){
     cout << endl;
     cout << "5 : End of program" << endl;
     cout << endl;
-    cout << "What is your choice ? Please enter a integer : " ;
+    cout << "What is your choice ? Please enter a number : " ;
     cin >> *choice;
 
     switch (*choice){

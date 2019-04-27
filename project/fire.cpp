@@ -18,7 +18,7 @@ void fire () {
   cout << "1 : name " << endl;
   cout << "2 : id " << endl;
   cout << "3 : role" << endl;
-  cout << "What is your choice ? " ;
+  cout << "What is your choice ? Please input a number : " ;
   cin >> *choice;
   cout << endl;
 

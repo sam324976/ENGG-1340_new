@@ -23,7 +23,7 @@ void search_1 (){
   cout << "1 : name " << endl;
   cout << "2 : id " << endl;
   cout << "3 : role" << endl;
-  cout << "What is your choice ? " ;
+  cout << "What is your choice ? Please input a number :" ;
   cin >> *choice;
   cout << endl;
 
@@ -157,7 +157,7 @@ void search_2 (){
   cout << "What do you want to display ?" << endl;
   cout << "1. Salary above or equal to the input number " << endl;
   cout << "2. Salary below the input number " << endl;
-  cout << "What is your choice ? ";
+  cout << "What is your choice ? Please input a number :";
   cin >> *choice;
 
   //open the file stream
@@ -246,7 +246,7 @@ void search(){
   cout << "What type of search do you want to choose ?" << endl;
   cout << "1 : Seaching with name / id / role " << endl;
   cout << "2 : Seaching employee with their salary " << endl;
-  cout << "What is your choice ? " ;
+  cout << "What is your choice ? Please input a number :" ;
   cin >> *choice;
   switch (*choice){
     case 1:

@@ -9,7 +9,7 @@ void add (){
 
   int temp = 0;
   string name;
-  int id;
+  string id;
   string role;
   double salary;
   string att;
@@ -39,7 +39,7 @@ void add (){
     cout << endl;
     fout << id << endl;
 
-    cout << "Please enter the new employee's age : " ;
+    cout << "Please enter the new employee's age (number only) : " ;
     cin >> age;
     cout << endl;
     fout << age << endl;
@@ -50,7 +50,7 @@ void add (){
     cout << endl;
     fout << role << endl;
 
-    cout << "Please enter the new employee's salary : ";
+    cout << "Please enter the new employee's salary (number only) : ";
     cin >> salary;
     cout << endl;
     fout << salary << endl;
